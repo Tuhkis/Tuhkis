@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tuhkis
 - 👀 I’m interested in game development and graphics.
-- 🌱 I’m currently learning python, java and haxe
+- 🌱 I’m currently learning python, C and haxe with some Rust sprinkled in.
 - 📫 How to reach me: <br>
         - Email: nicolindstromj@gmail.com <br>
         - Discord: Tuhkis#7662 <br>
