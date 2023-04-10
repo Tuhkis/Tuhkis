@@ -5,7 +5,9 @@
         - Email: nicolindstromj@gmail.com <br>
         - Discord: Tuhkis#7662 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuhkis)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuhkis&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhkis)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Tuhkis/Tuhkis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
