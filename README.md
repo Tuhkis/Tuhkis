@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tuhkis
-- 👀 I’m interested in Linux (I use Gentoo), game development and graphics. I'm also a developer on the [FRUE project](https://github.com/FRUE-Project)
+- 👀 I’m interested in Linux (I use Arch btw), game development and graphics. I'm also a developer on the [FRUE project](https://github.com/FRUE-Project)
 - 🌱 I’m currently learning python, C and haxe with some Rust sprinkled in.
 - 📫 How to reach me: <br>
         - Email: nicolindstromj@gmail.com <br>
