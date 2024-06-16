@@ -3,7 +3,7 @@
 - I use mostly C and Haxe
 - You can reach me: <br>
         - Email: nicolindstromj@gmail.com <br>
-        - Discord: Tuhkis#7662 <br>
+        - Discord: .tuhkis <br>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuhkis&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
